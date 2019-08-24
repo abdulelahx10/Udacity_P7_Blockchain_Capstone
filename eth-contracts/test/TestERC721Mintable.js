@@ -21,7 +21,7 @@ contract("TestERC721Mintable", accounts => {
 
     it("should return total supply", async function() {
       let total = await this.contract.totalSupply.call();
-      const expectedTotal = 4;
+      const expectedTotal = 3;
       assert.equal(total.toNumber(), expectedTotal, `Total tokens expected to be ${expectedTotal}`);
     });
 
