@@ -39,7 +39,7 @@ contract('TestSolnSquareVerifier', accounts => {
         try {
             await this.contract.mintToken(
                 account_two,
-                14,
+                15,
                 proof.proof.a,
                 proof.proof.b,
                 proof.proof.c,
