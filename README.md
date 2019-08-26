@@ -33,9 +33,11 @@ truffle migrate
 truffle test
 ```
 
-## Contract information
+## Contracts information
 
-**Contract address:** [0xa9B128a646666028F311C266e854AeFE69A0cf8e](https://rinkeby.etherscan.io/address/0xa9B128a646666028F311C266e854AeFE69A0cf8e)
+**Verifier Contract address:** [0x975b2b964b25bed7669429e3dd68ce94098f3752](https://rinkeby.etherscan.io/address/0x975b2b964b25bed7669429e3dd68ce94098f3752)
+
+**SolnSqaureVerifier Contract address:** [0xa9B128a646666028F311C266e854AeFE69A0cf8e](https://rinkeby.etherscan.io/address/0xa9B128a646666028F311C266e854AeFE69A0cf8e)
 
 **Owner address:** [0x8Cf2E8665564B6781E8f88ae1606059A16Bc0C22](https://rinkeby.etherscan.io/address/0x8Cf2E8665564B6781E8f88ae1606059A16Bc0C22)
 
